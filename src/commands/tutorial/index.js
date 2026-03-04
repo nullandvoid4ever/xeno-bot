@@ -71,15 +71,15 @@ const CATEGORIES = {
       [
         '**Hive Basics**',
         '- Create your hive with `/hive create` once eligible.',
-        '- Check status and progress with `/hive stats`.',
-        '- View milestones with `/hive milestones`.',
-        '- Track queen output via `/hive queen-status`.'
+        '- View your hive info with `/hive`.',
+        '- Use the various buttons to navigate the hive menu.',
+        '- Assign a fully evolved queen to start Jelly production.'
       ],
       [
         '**Hive Management**',
-        '- Improve performance using `/hive modules` and `/hive upgrade-module`.',
-        '- Upgrade queen systems using `/hive upgrade-queen`.',
-        '- Review activity with `/hive events`.',
+        '- Improve performance using the modules section.',
+        '- Upgrade queen systems to produce more Jelly per hour.',
+        '- View assigned hive members using the members section.',
         '- Defend when needed using `/hive defend`.'
       ]
     ]
